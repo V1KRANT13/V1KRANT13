@@ -1,10 +1,10 @@
 # Hey, I'm Vikrant Rai 👋
 
-### AI/ML Developer | Python & C++ | Building Practical AI Projects
+### AI/ML Developer | Python & C++ | Django Backend | Building Practical AI Projects
 
-I'm a Computer Science student focused on **Artificial Intelligence and Machine Learning**.
+I'm a Computer Science student focused on **Artificial Intelligence and Machine Learning**, while also developing my skills in **Python backend development with Django**.
 
-I enjoy solving problems, building projects, and learning how intelligent systems work — from data analysis and classical machine learning to deep learning and generative AI.
+I enjoy solving problems, building projects, and learning how intelligent systems work — from data analysis and classical machine learning to deep learning and generative AI. I'm also exploring **backend development and API building with Django**.
 
 ---
 
@@ -12,6 +12,7 @@ I enjoy solving problems, building projects, and learning how intelligent system
 
 - Machine Learning with Scikit-learn
 - Data Science & Exploratory Data Analysis
+- Django & Python Backend Development
 - Deep Learning
 - Computer Vision
 - Generative AI
