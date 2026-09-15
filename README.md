@@ -65,6 +65,7 @@ I enjoy solving problems, building projects, and learning how intelligent system
 End-to-end Machine Learning project for predicting house prices using Python and Scikit-learn, including data preprocessing, model comparison, hyperparameter tuning, feature importance analysis and a Streamlit interface.
 
 🔗 [View Project](https://github.com/V1KRANT13/house-price-prediction)
+🌐 [Try the House Price Predictor](https://house-price-prediction-fertftvspdwtdrdt4ekrkf.streamlit.app/)
 
 ---
 
