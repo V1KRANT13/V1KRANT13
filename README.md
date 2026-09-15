@@ -60,8 +60,25 @@ I enjoy solving problems, building projects, and learning how intelligent system
 
 ## 🚀 Featured Projects
 
+### 🏠 House Price Prediction
+
+End-to-end Machine Learning project for predicting house prices using Python and Scikit-learn, including data preprocessing, model comparison, hyperparameter tuning, feature importance analysis and a Streamlit interface.
+
+🔗 [View Project](https://github.com/V1KRANT13/house-price-prediction)
+
+---
+
+### 🌐 DevTrack
+
+A web-based project built with Python and Django for tracking developer activities and progress.
+
+🔗 [View Project](https://github.com/V1KRANT13/Devtrack)
+
+---
+
 ### 📊 Netflix Movies & TV Shows — EDA
-Exploratory Data Analysis of Netflix's content library using **Python, Pandas, Matplotlib and Seaborn**.
+
+Exploratory Data Analysis of Netflix's content library using Python, Pandas, Matplotlib and Seaborn.
 
 🔗 [View Project](https://github.com/V1KRANT13/netflix-eda)
 
