@@ -71,7 +71,7 @@ End-to-end Machine Learning project for predicting house prices using Python and
 
 ### 🌐 DevTrack
 
-A web-based project built with Python and Django for tracking developer activities and progress.
+A Django-based web application for tracking developer activities and progress, built with Python and Django.
 
 🔗 [View Project](https://github.com/V1KRANT13/Devtrack)
 
