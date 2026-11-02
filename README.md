@@ -46,4 +46,57 @@ I specialize in taking models from concept to production—combining **FastAPI, 
   <br/>
   <!-- Data Science & Tools -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Num
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📝 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=V1KRANT13&theme=darkhub&no-frame=false&no-background=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=V1KRANT13&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1KRANT13&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎓 [EduAgent AI Platform](https://github.com/V1KRANT13/EduAgent)
+An asynchronous FastAPI service powering an interactive AI tutor platform. Features multi-agent code evaluation (`ESLintValidator`) and specialized LLM agent orchestration using RAG pipelines (`ExplainerAgent`).
+- **Tech Stack:** Python 3.13, FastAPI, GenAI SDK, RAG, Docker, `uv`, SQLAlchemy
+
+#### 🏠 [HousePriceAI](https://github.com/V1KRANT13)
+An end-to-end house price prediction web application combining Machine Learning models with high-performance Python APIs, PostgreSQL data persistence, and custom evaluation endpoints.
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, FastAPI, PostgreSQL
+
+---
+
+<br/>
+
+<p align="center">
+  <b>Thank you for visiting my GitHub profile!</b><br/>
+  <i>I'm always open to collaboration, learning, and building impactful software.</i>
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?q=80&w=1200&auto=format&fit=crop" alt="Footer Banner" width="100%" height="180px" style="object-fit: cover; border-radius: 10px;" />
+</p>
