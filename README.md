@@ -1,49 +1,49 @@
-# Hey, I'm Vikrant Rai 👋
-**AI/ML Developer | Python & C++ | FastAPI Backend & MLOps | Building Practical AI Projects**
+<h3 align="center">AI/ML Developer • Python & C++ • FastAPI Backend & MLOps</h3>
 
-I'm a Computer Science student passionate about Artificial Intelligence and Machine Learning, with a strong emphasis on modern Python backend development and AI systems architecture.
-
-I enjoy solving challenging problems and building practical applications—from classical machine learning and computer vision to **NLP, Transformers, and Generative AI**. I leverage **FastAPI, Docker, REST APIs**, and database integration to turn complex ML models into scalable, production-ready applications.
-
----
-
-### 🧠 Currently Learning & Building
-- **Generative AI & Large Language Models (LLMs)**
-- **Retrieval-Augmented Generation (RAG)** & Agentic Frameworks
-- **Deep Learning & Transformers** (Hugging Face ecosystem)
-- **FastAPI & Async Python Architecture**
-- **Docker & Containerized Deployment**
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" alt="Header Banner" width="100%" height="280px" style="object-fit: cover; border-radius: 10px;" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+I'm **Vikrant Rai**, a Computer Science student passionate about Artificial Intelligence, Machine Learning, and building scalable Python backend systems.
 
-- **Languages:** Python, C++, SQL
-- **AI / ML & NLP:** PyTorch, TensorFlow, Scikit-learn, Transformers, Hugging Face, OpenCV
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **Backend & MLOps:** FastAPI, AsyncIO, SQLAlchemy, Docker, REST APIs, `uv`
-- **Tools & Databases:** Git, GitHub, PostgreSQL, SQLite, VS Code
+I specialize in taking models from concept to production—combining **FastAPI, Docker, REST APIs, and PostgreSQL** with advanced **NLP, Transformers, LLMs, and RAG architectures**. I also actively sharpen my problem-solving and competitive programming skills using **C++**.
 
 ---
 
-### 🚀 Featured Projects
+### 🤝 Connect With Me
 
-#### 🎓 EduAgent AI Platform — Multi-Agent Learning Backend
-An enterprise-ready, asynchronous FastAPI service powering an interactive AI tutor platform. Features an engine for real-time student code analysis (`ESLintValidator`) and specialized LLM agent orchestration using RAG pipelines (`ExplainerAgent`).
-- **Tech Stack:** Python 3.13, FastAPI, GenAI SDK, RAG, Docker, `uv`, SQLAlchemy
-- 🔗 [View Source Code](https://github.com/V1KRANT13/EduAgent)
-
-#### 🏠 HousePriceAI — Machine Learning Web Application
-An end-to-end house price prediction application combining Machine Learning with high-performance Python APIs. Features user authentication, property price prediction, prediction history, and database integration.
-- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, FastAPI, PostgreSQL
-- 🔗 [View Source Code](#) | 🌐 [Try HousePriceAI Live](#)
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 📈 My AI/ML Roadmap
+### 💻 Tech Stack
 
-```text
-Data Science & EDA ──► Classical ML ──► Deep Learning & CNNs
-                                              │
-                                              ▼
-RAG & AI Agents ◄── Generative AI & LLMs ◄── NLP & Transformers
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <br/>
+  <!-- AI / ML & Frameworks -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <br/>
+  <!-- Data Science & Tools -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Num
