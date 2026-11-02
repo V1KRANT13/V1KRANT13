@@ -36,7 +36,7 @@ I specialize in building end-to-end intelligent systems—ranging from **NLP and
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:your.email@example.com">
@@ -49,7 +49,7 @@ I specialize in building end-to-end intelligent systems—ranging from **NLP and
 <h2>💻 Tech Stack</h2>
 
 <p align="left">
-  <!-- AI / ML & Deep Learning First -->
+  <!-- AI / ML & Deep Learning -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
@@ -80,20 +80,23 @@ I specialize in building end-to-end intelligent systems—ranging from **NLP and
 * Integrated Retrieval-Augmented Generation (RAG) pipelines to contextualize course content and generate dynamic explanations (`ExplainerAgent`).
 * Implemented multi-stage static code checkers (`ESLintValidator`) with async FastAPI routing.
 * **Tech Stack:** `Python 3.13` • `FastAPI` • `GenAI SDK` • `RAG` • `Docker` • `uv`
+* 🔗 [View Source Code](https://github.com/V1KRANT13/EduAgent)
 
 <br/>
 
-### 🏠 [HousePriceAI](https://github.com/V1KRANT13)
+### 🏠 [HousePriceAI](https://github.com/V1KRANT13/HousePriceAI)
 **An end-to-end Machine Learning web service predicting real estate pricing using trained regression models.**
 * Features data preprocessing, model inference pipelines, user session tracking, and PostgreSQL database integration.
 * **Tech Stack:** `Python` • `Scikit-Learn` • `Pandas` • `NumPy` • `FastAPI` • `PostgreSQL`
+* 🔗 [View Source Code](https://github.com/V1KRANT13/HousePriceAI)
 
 <br/>
 
-### 📊 [Netflix EDA & Content Intelligence](https://github.com/V1KRANT13)
+### 📊 [Netflix EDA & Content Intelligence](https://github.com/V1KRANT13/Netflix-EDA)
 **Exploratory Data Analysis and pattern recognition on content catalog datasets.**
 * Formulated data pipelines to analyze genre distributions, content release trends, and statistical insights.
 * **Tech Stack:** `Python` • `Pandas` • `Matplotlib` • `Seaborn`
+* 🔗 [View Source Code](https://github.com/V1KRANT13/Netflix-EDA)
 
 </font>
 
