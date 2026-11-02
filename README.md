@@ -33,10 +33,10 @@ I specialize in building end-to-end intelligent systems—ranging from **NLP and
 <h2>🤝 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vikrant-rai-321759328/" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/Vikrant_13/" target="_blank">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:your.email@example.com">
@@ -84,19 +84,20 @@ I specialize in building end-to-end intelligent systems—ranging from **NLP and
 
 <br/>
 
+### 💼 [CareerSwipe AI Platform](https://github.com/V1KRANT13/CareerSwipe)
+**An intelligent career matching platform combining PyTorch Transformer embeddings with heuristic match scoring.**
+* Implemented candidate-job similarity scoring using Transformer vector embeddings (`all-MiniLM-L6-v2`) and automated resume parsing.
+* Built LLM-driven insight generators to produce actionable match explanations, paired with high-concurrency FastAPI routes.
+* **Tech Stack:** `Python 3.13` • `FastAPI` • `PyTorch` • `Transformers` • `RAG` • `PostgreSQL` • `Docker`
+* 🔗 [View Source Code](https://github.com/V1KRANT13/CareerSwipe)
+
+<br/>
+
 ### 🏠 [HousePriceAI](https://github.com/V1KRANT13/HousePriceAI)
 **An end-to-end Machine Learning web service predicting real estate pricing using trained regression models.**
 * Features data preprocessing, model inference pipelines, user session tracking, and PostgreSQL database integration.
 * **Tech Stack:** `Python` • `Scikit-Learn` • `Pandas` • `NumPy` • `FastAPI` • `PostgreSQL`
 * 🔗 [View Source Code](https://github.com/V1KRANT13/HousePriceAI)
-
-<br/>
-
-### 📊 [Netflix EDA & Content Intelligence](https://github.com/V1KRANT13/Netflix-EDA)
-**Exploratory Data Analysis and pattern recognition on content catalog datasets.**
-* Formulated data pipelines to analyze genre distributions, content release trends, and statistical insights.
-* **Tech Stack:** `Python` • `Pandas` • `Matplotlib` • `Seaborn`
-* 🔗 [View Source Code](https://github.com/V1KRANT13/Netflix-EDA)
 
 </font>
 
